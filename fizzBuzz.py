@@ -1,3 +1,4 @@
+#This is a Fizz Buzz game.
 #greet user and ask to enter a number to be checked
 print('Welcome to Fizz Buzz!')
 print('Enter a number:')
