@@ -1,3 +1,4 @@
+#This script creates an xmas tree-looking pattern on the terminal screen when you run it, with the height being the number that the user inputs.
 #ask user for number, convert it to int & save the variables
 print('Enter a number:')
 size = int(input())
